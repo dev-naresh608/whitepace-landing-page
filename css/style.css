@@ -313,7 +313,7 @@ header > div {
 
 /* ! Hero Section  */
 .hero-section {
-  background-image: url(/assets/decoration/hero-bg.png);
+  background-image: url("../assets/decoration/hero-bg.png");
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: 0px 160px;
@@ -338,7 +338,7 @@ header > div {
 
 /* ! Project Management Section  */
 .proj-mng-section {
-  background-image: url(/assets/decoration/BACKGROUND.png);
+  background-image: url("../assets/decoration/BACKGROUND.png");
   background-repeat: no-repeat;
   background-position: 0px 70%;
 }
@@ -356,14 +356,14 @@ header > div {
 }
 .highlight {
   padding-bottom: 10px;
-  background-image: url(/assets/decoration/highlighter.png);
+  background-image: url("../assets/decoration/highlighter.png");
   background-size: 100%;
   background-position: center;
   white-space: nowrap;
 }
 .blue-highlight {
   padding-bottom: 10px;
-  background-image: url(/assets/decoration/blue-highlighter.png);
+  background-image: url("../assets/decoration/blue-highlighter.png");
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: bottom;
@@ -479,7 +479,7 @@ header > div {
   gap: 10px;
 }
 .features-list ul li::before {
-  content: url(/assets/icon/li-tick-mark-black.png);
+  content: url("../assets/icon/li-tick-mark-black.png");
 }
 .plan-get-started-btn {
   padding: 16px 40px;
@@ -512,7 +512,7 @@ header > div {
 
 .plan-article:not(.no-hover):hover .features-list ul li::before,
 .plan-article.active .features-list ul li::before {
-  content: url(/assets/icon/li-tick-mark-yellow.png);
+  content: url("../assets/icon/li-tick-mark-yellow.png");
 }
 
 .plan-article:not(.no-hover):hover .plan-get-started-btn,
@@ -526,7 +526,7 @@ header > div {
 
 /* ! Your Work Section */
 .your-work-section {
-  background-image: url(/assets/decoration/your-work-side-bg.png);
+  background-image: url("../assets/decoration/your-work-side-bg.png");
   background-repeat: no-repeat;
   background-position: -130px -170px;
 }
@@ -577,7 +577,7 @@ header > div {
 
 /* ! Whitepace Apps Section */
 .whitepace-apps-section {
-  background-image: url(/assets/decoration/app-bg.png);
+  background-image: url("../assets/decoration/app-bg.png");
   background-repeat: no-repeat;
 }
 .whitepace-apps-sec-container {
@@ -642,7 +642,7 @@ header > div {
 .cpi-one {
   height: 61px;
   width: 86px;
-  background-image: url(/assets/icon/quote-white.png);
+  background-image: url("../assets/icon/quote-white.png");
   background-repeat: no-repeat;
 }
 
@@ -685,7 +685,7 @@ header > div {
 
 .client-profiles-container > div:not(.no-hover):hover .cpi-one,
 .client-profiles-container > div.active .cpi-one {
-  background-image: url(/assets/icon/quote-blue.png);
+  background-image: url("../assets/icon/quote-blue.png");
 }
 
 /* end of client section profile  */
@@ -996,7 +996,7 @@ header > div {
   }
 
   .proj-mng-section {
-    background-image: url(/assets/decoration/BACKGROUND.png);
+    background-image: url("../assets/decoration/BACKGROUND.png");
     background-size: 40%;
     background-repeat: no-repeat;
     background-position: 0px 0;
@@ -1190,7 +1190,7 @@ header > div {
     gap: 30px;
   }
   .proj-mng-section {
-    background-image: url(/assets/decoration/BACKGROUND.png);
+    background-image: url("../assets/decoration/BACKGROUND.png");
     background-size: 50%;
     background-repeat: no-repeat;
     background-position: 0px 30%;
